@@ -14,5 +14,3 @@ _deps
 # Build directories
 ######################
 _build/
-_static/
-_templates/
