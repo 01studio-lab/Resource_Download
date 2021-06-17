@@ -11,6 +11,7 @@
    :caption: MicroPython系列开发板
    :titlesonly:
    
+   micropython/davinci/davinci
    micropython/columbus/columbus
    micropython/pyboard/pyboard
    micropython/pyPico/pyPico
