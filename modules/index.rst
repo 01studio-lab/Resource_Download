@@ -12,6 +12,8 @@
    sensor/index
    
    camera/index
+   
+   motor/index
 
    others/index
 
