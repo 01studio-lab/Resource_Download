@@ -11,6 +11,8 @@ IOT/通讯模块
    
    GPS_ATGM336H/GPS_ATGM336H
    
+   ETH_01/ETH_01
+   
    Enthernet_W5500/Enthernet_W5500
    
    openmv_wifi/openmv_wifi
