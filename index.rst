@@ -6,6 +6,8 @@
 01Studio产品资料下载站
 ======================================================
 
+-专注Python嵌入式编程-
+
 .. toctree::
    :maxdepth: 2
    :caption: MicroPython开发板
