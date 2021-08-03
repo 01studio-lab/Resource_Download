@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: MicroPython系列开发板
+   :caption: MicroPython开发板
    :titlesonly:
    
    micropython/davinci/davinci
@@ -25,11 +25,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 树莓派
+   :caption: Linux Python开发板
    :titlesonly:
    
-   RaspberryPi/4B/4B
-   RaspberryPi/pico/pico   
+   linuxpython/RaspberryPi_4B/RaspberryPi_4B
+   linuxpython/Jetson_Nano/Jetson_Nano   
 
 
 .. toctree::

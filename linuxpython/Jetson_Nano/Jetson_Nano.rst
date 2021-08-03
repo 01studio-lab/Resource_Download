@@ -1,22 +1,32 @@
 
-树莓派 Pico
+英伟达 Jetson Nano
 ======================
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1B0AYKRGm6DuY9cfwlwCqvw
+
+1、资料包：
+
+- 下载链接：https://pan.baidu.com/s/1FVQ2vtuqCDAfiDSGIiEtSw
 - 提取码：01KJ 
+
+
+2、视频包：
+
+- 下载链接：https://pan.baidu.com/s/1Js0VY0UbALUcjGAt5T1_Ow
+- 提取码：01KJ 
+
 
 产品图片
 ------------
 
-.. figure:: media/pyPico_kits.png
+.. figure:: media/jetson_nano.png
 
-  pyPico开发套件
+  英伟达Jetson Nano(B01/4G) AI开发套件
   
-.. figure:: media/pyPico.png
+.. figure:: media/pihat.png
    
-  pyPico
+  PiHAT
 
 
 购买链接
