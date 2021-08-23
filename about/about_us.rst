@@ -12,9 +12,9 @@
 联系我们
 -----------------
 
-- 社区论坛： http://www.01studio.org/
+- 社区论坛： https://bbs.01studio.cc/
 - 官方淘宝店： https://01studio.taobao.com/
-- 邮箱：support@01studio.org  
+- 邮箱：support@01studio.cc  
 - 商务合作：18123953882（微信同号）
   
 更多动态可关注微信公众号：

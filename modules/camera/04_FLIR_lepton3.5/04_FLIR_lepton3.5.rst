@@ -26,8 +26,8 @@ FLIR lepton3.5红外热成像
 
 产品答疑
 -------------
-- 社区论坛发帖提问：http://www.01studio.org/ 
-- 技术支持邮箱：support@01studio.org
+- 社区论坛发帖提问：https://bbs.01studio.cc/ 
+- 技术支持邮箱：support@01studio.cc
 - 微信用户群：针对已购买开发板的用户提供技术支持，联系淘宝客服添加。
 
 
