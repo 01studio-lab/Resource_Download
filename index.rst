@@ -20,6 +20,7 @@
    micropython/pyWiFi-ESP8266/pyWiFi-ESP8266
    micropython/pyWiFi-ESP32-C3/pyWiFi-ESP32-C3
    micropython/pyWiFi-ESP32/pyWiFi-ESP32
+   micropython/pyWiFi-ESP32-S2/pyWiFi-ESP32-S2
    micropython/pyBLE-NRF52840/pyBLE-NRF52840
    micropython/pyAI-OpenMV4/pyAI-OpenMV4
    micropython/pyAI-K210/pyAI-K210  
