@@ -4,7 +4,7 @@ pyWiFi-ESP32-S2
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1ZvYfuDuSFPFnmDkeYIowHw
+- 下载链接：https://pan.baidu.com/s/1pMXn__W6iHiR2fD9-uGC_g
 - 提取码：01KJ 
 
 
