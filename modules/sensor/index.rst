@@ -29,6 +29,11 @@
    
    12_Digital_microphone/12_Digital_microphone
 
+   13_IR_receive/IR_receive
+
+   14_MLX90614/MLX90614
+
+
 
 
    
