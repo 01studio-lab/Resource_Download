@@ -4,7 +4,7 @@ py4G-EC600
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1VhQUNm_Vkx59_DizP7W24g
+- 下载链接：https://pan.baidu.com/s/1mHnRU212qcpfDw8Yv3TmCw
 - 提取码：01KJ 
 
 
