@@ -4,7 +4,7 @@ pyAI-K210
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1UEbpirwO_XdyxCMrFhR1IQ
+- 下载链接：https://pan.baidu.com/s/1lJqne74EyLidkfNEINmSbg
 - 提取码：01KJ 
 
 产品图片
