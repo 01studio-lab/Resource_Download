@@ -35,6 +35,13 @@
    linuxpython/RaspberryPi_4B/RaspberryPi_4B
    linuxpython/Jetson_Nano/Jetson_Nano   
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 开源项目
+   :titlesonly:
+   
+   project/pyCar/pyCar
+
 
 .. toctree::
    :maxdepth: 2
