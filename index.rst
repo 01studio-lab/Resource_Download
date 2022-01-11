@@ -13,9 +13,9 @@
    :caption: MicroPython开发板
    :titlesonly:
    
-   micropython/davinci/davinci
-   micropython/columbus/columbus
    micropython/pyboard/pyboard
+   micropython/columbus/columbus
+   micropython/davinci/davinci
    micropython/pyPico/pyPico
    micropython/pyWiFi-ESP8266/pyWiFi-ESP8266
    micropython/pyWiFi-ESP32-C3/pyWiFi-ESP32-C3

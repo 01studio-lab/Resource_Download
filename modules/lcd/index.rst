@@ -7,6 +7,8 @@ LCD显示屏
 
    0.96_OLED/0.96_OLED
    
+   1.5_LCD/1.5_LCD
+   
    1.8_LCD/1.8_LCD
    
    2.4_LCD/2.4_LCD
