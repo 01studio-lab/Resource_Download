@@ -1,18 +1,18 @@
 
-4.3寸MCU_LCD电容触摸屏800x480
-=============================
+7寸RGB_LCD电容触摸屏800x480
+============================
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1SG9aqjDPILi3YaHIFxej3A
+- 下载链接：https://pan.baidu.com/s/1I91NxI95906MIvHkJrmfqQ
 - 提取码：01KJ 
 
 产品图片
 ------------
 
-.. figure:: media/4.3_MCU_LCD.png
+.. figure:: media/7_RGB_LCD.png
 
-  4.3寸MCU_LCD(电容触摸屏)
+  7寸RGB_LCD(电容触摸屏)
 
 
 购买链接

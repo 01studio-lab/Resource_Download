@@ -19,6 +19,9 @@ LCD显示屏
    
    4.3_MCU_LCD/4.3_MCU_LCD
 
+   4.3_RGB_LCD/4.3_RGB_LCD
+
+   7_RGB_LCD/7_RGB_LCD
 
 
 
