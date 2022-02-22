@@ -15,6 +15,7 @@
    
    micropython/pyboard/pyboard
    micropython/columbus/columbus
+   micropython/magellan/magellan
    micropython/davinci/davinci
    micropython/pyPico/pyPico
    micropython/pyWiFi-ESP8266/pyWiFi-ESP8266
