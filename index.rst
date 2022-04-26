@@ -42,6 +42,7 @@
    :titlesonly:
    
    project/pyCar/pyCar
+   project/pyController/pyController
 
 
 .. toctree::
