@@ -44,6 +44,7 @@
    
    project/pyCar/pyCar
    project/pyController/pyController
+   project/pyClock/pyClock
 
 
 .. toctree::
