@@ -34,6 +34,7 @@
    :caption: Linux Python开发板
    :titlesonly:
    
+   linuxpython/pyAI-V831/pyAI-V831
    linuxpython/RaspberryPi_4B/RaspberryPi_4B
    linuxpython/Jetson_Nano/Jetson_Nano   
 
