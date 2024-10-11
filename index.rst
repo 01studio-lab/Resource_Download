@@ -28,6 +28,7 @@
    micropython/pyAI-OpenMV4/pyAI-OpenMV4
    micropython/pyAI-K210/pyAI-K210
    micropython/CanMV-K210/CanMV-K210
+   micropython/CanMV-K230/CanMV-K230
 
 .. toctree::
    :maxdepth: 2

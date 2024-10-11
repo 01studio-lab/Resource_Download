@@ -1,26 +1,26 @@
 
-CanMV-K210
+CanMV-K230
 ======================
 
 资料下载
 ------------
-- 下载链接：https://pan.baidu.com/s/1P-lju8EH-fd4Rfy67Ge-Gg
+- 下载链接：https://pan.baidu.com/s/1zVOi2lHbaQhlQEqK-7s-Nw?pwd=01KJ
 - 提取码：01KJ
 
 在线教程
 ------------
-- 链接：https://wiki.01studio.cc/docs/canmv_k210
+- 链接：https://wiki.01studio.cc/docs/canmv_k230
 
 产品图片
 ------------
 
-.. figure:: media/CanMV-K210_kits.png
+.. figure:: media/CanMV-K230_kits.png
 
-  CanMV-K210开发套件
+  CanMV-K230开发套件
   
-.. figure:: media/CanMV-K210.png
+.. figure:: media/CanMV-K230.png
    
-  CanMV-K210描述
+  CanMV-K230描述
 
 
 购买链接
